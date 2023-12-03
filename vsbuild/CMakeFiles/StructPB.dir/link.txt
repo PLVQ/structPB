@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/StructPB.dir/src/Main.cpp.o CMakeFiles/StructPB.dir/src/config/CAppConfigMgr.cpp.o CMakeFiles/StructPB.dir/src/config/CBuyBoxConfigMgr.cpp.o CMakeFiles/StructPB.dir/res/BoxConfig.pb.cc.o -o ../bin/StructPB  -lprotobuf 

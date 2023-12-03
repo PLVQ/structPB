@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/plvq/structPB/vsbuild",
+  "command": "/usr/bin/g++ -DPROJECT_SOURCE_DIR=\\\"/home/plvq/structPB\\\" -I/home/plvq/structPB/proto -I/home/plvq/structPB/res -I/home/plvq/structPB/third -I/home/plvq/structPB/third/ylt/thirdparty -I/home/plvq/structPB/src/base -I/home/plvq/structPB/src/config -g -std=gnu++20 -o CMakeFiles/StructPB.dir/src/Main.cpp.o -c /home/plvq/structPB/src/Main.cpp",
+  "file": "/home/plvq/structPB/src/Main.cpp"
+},
+{
+  "directory": "/home/plvq/structPB/vsbuild",
+  "command": "/usr/bin/g++ -DPROJECT_SOURCE_DIR=\\\"/home/plvq/structPB\\\" -I/home/plvq/structPB/proto -I/home/plvq/structPB/res -I/home/plvq/structPB/third -I/home/plvq/structPB/third/ylt/thirdparty -I/home/plvq/structPB/src/base -I/home/plvq/structPB/src/config -g -std=gnu++20 -o CMakeFiles/StructPB.dir/src/config/CAppConfigMgr.cpp.o -c /home/plvq/structPB/src/config/CAppConfigMgr.cpp",
+  "file": "/home/plvq/structPB/src/config/CAppConfigMgr.cpp"
+},
+{
+  "directory": "/home/plvq/structPB/vsbuild",
+  "command": "/usr/bin/g++ -DPROJECT_SOURCE_DIR=\\\"/home/plvq/structPB\\\" -I/home/plvq/structPB/proto -I/home/plvq/structPB/res -I/home/plvq/structPB/third -I/home/plvq/structPB/third/ylt/thirdparty -I/home/plvq/structPB/src/base -I/home/plvq/structPB/src/config -g -std=gnu++20 -o CMakeFiles/StructPB.dir/src/config/CBuyBoxConfigMgr.cpp.o -c /home/plvq/structPB/src/config/CBuyBoxConfigMgr.cpp",
+  "file": "/home/plvq/structPB/src/config/CBuyBoxConfigMgr.cpp"
+},
+{
+  "directory": "/home/plvq/structPB/vsbuild",
+  "command": "/usr/bin/g++ -DPROJECT_SOURCE_DIR=\\\"/home/plvq/structPB\\\" -I/home/plvq/structPB/proto -I/home/plvq/structPB/res -I/home/plvq/structPB/third -I/home/plvq/structPB/third/ylt/thirdparty -I/home/plvq/structPB/src/base -I/home/plvq/structPB/src/config -g -std=gnu++20 -o CMakeFiles/StructPB.dir/res/BoxConfig.pb.cc.o -c /home/plvq/structPB/res/BoxConfig.pb.cc",
+  "file": "/home/plvq/structPB/res/BoxConfig.pb.cc"
+}
+]

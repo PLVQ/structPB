@@ -1,0 +1,3 @@
+/home/plvq/structPB/vsbuild/CMakeFiles/StructPB.dir
+/home/plvq/structPB/vsbuild/CMakeFiles/edit_cache.dir
+/home/plvq/structPB/vsbuild/CMakeFiles/rebuild_cache.dir
